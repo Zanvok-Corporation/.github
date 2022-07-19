@@ -5,7 +5,7 @@
 
 🌈 Contribution guidelines - If you want to contribute or join our company just [Mail Us](mailto:zanvokcorporation@gmail.com)
 
-🍿 Fun facts - Our First Software was CaribouOS 0.5.1, later renamed to CariboOS...
+🍿 Fun facts - Our First Software was CaribouOS 0.5.1, which was later renamed to CariboOS...
 
 ## Members
 * Gautham Nair
